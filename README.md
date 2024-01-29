@@ -16,7 +16,7 @@ Example of use
 1. Clone to your `custom_nodes` folder in ComfyUI:
 
 ```
-git clone https://github.com/Loewen-Hob/rembg-comfyui-node.git
+git clone https://github.com/Loewen-Hob/rembg-comfyui-node-better.git
 ```
 
 2. Install `rembg[gpu]` (recommended) or `rembg`, depending on GPU support, to your ComfyUI virtual environment. E.g.:
