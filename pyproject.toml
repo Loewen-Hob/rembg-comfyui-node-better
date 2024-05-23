@@ -1,0 +1,14 @@
+[project]
+name = "rembg-comfyui-node-better"
+description = "This custom node is based on the [a/rembg-comfyui-node](https://github.com/Jcd1230/rembg-comfyui-node) but provides additional functionality to select ONNX models."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/Loewen-Hob/rembg-comfyui-node-better"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "rembg-comfyui-node-better"
+Icon = ""
