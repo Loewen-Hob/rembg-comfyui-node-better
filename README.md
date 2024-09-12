@@ -54,3 +54,4 @@ The available models are:
    I will set these adjustable parameters in the options of the node later on in my work, which will give better results!
 
 ## Stay tuned for more!
+## Should we thank the author of [rembg：](https://github.com/danielgatis/rembg)
